@@ -1,15 +1,15 @@
-#Login2902093 - AndroidStudio SignUP - SignIn
+# Login2902093 - AndroidStudio SignUP - SignIn
 
-#Descripcion del proyecto
+# Descripcion del proyecto
 Este proyecto es una aplicacion realizada en andorid studio que permite funciones de registro de usuarios y funciones de login, con una interfaz amigable y facil de usar.
 
-##Caracteristicas
+## Caracteristicas
 -Registro a nuevos usuarios
 -Inicio de sesión con usuarios registrados
 -Validación de formularios
 -Interfaz de usuario intuitiva
 
-##Utilidad del proyecto
+## Utilidad del proyecto
 Este proyecto proporciona una solución práctica para la implementación de un sistema de autenticación de usuarios en aplicaciones Android. Es útil para:
 - *Autenticación Segura*: Asegura que solo usuarios autorizados puedan acceder a la aplicación.
 - *Base para Nuevos Proyectos*: Sirve como punto de partida para aplicaciones Android que requieran autenticación.
@@ -42,7 +42,7 @@ Este proyecto proporciona una solución práctica para la implementación de un 
     - Selecciona un dispositivo emulador o conecta tu dispositivo físico.
     - Haz clic en el botón `Run` (el ícono de play) en la barra de herramientas de Android Studio.
 
-##Documentacion commits
+## Documentacion commits
 1. Commit inicial que inicializo el proyecto ademas en este se creo el postOffice.
 2. En este commit se actualizo un archivo de control de versiones
 3. En este commit se creo el componente del texto normal con todas sus especificaciones.
@@ -53,6 +53,6 @@ Este proyecto proporciona una solución práctica para la implementación de un 
 8. En este commit se crea el otro componente de texto llamado "headingtextcomponent" con sus especificaciones de detalladas
 9. En este commit se llama al headingtextcomponet para que se muestre el segundo texto y se corrigen el tamaño de letra para cada texto
 
-##Contacto
+## Contacto
 Creador: [Miguel Angel Ortiz Neira](https://github.com/angelhg34)
 Correo: miguel1516q6@gmail.com
